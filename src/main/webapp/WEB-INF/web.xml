@@ -10,11 +10,11 @@
   </context-param>
   <context-param>
     <param-name>dbPassword</param-name>
-    <param-value>Welcome123</param-value>
+    <param-value>adminadmin</param-value>
   </context-param>
   <context-param>
     <param-name>dbURL</param-name>
-    <param-value>jdbc:mysql://homeloan.ctsskph1rwug.ap-south-1.rds.amazonaws.com:3306/</param-value>
+    <param-value>jdbc:mysql://pc.cjr5sozg95sx.ap-south-1.rds.amazonaws.com:3306/</param-value>
   </context-param>
   <context-param>
     <param-name>dbName</param-name>
