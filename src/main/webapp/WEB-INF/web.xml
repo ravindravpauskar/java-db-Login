@@ -6,7 +6,7 @@
   <display-name>Archetype Created Web Application</display-name>
   <context-param>
     <param-name>dbUser</param-name>
-    <param-value>master</param-value>
+    <param-value>admin</param-value>
   </context-param>
   <context-param>
     <param-name>dbPassword</param-name>
